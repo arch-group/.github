@@ -1,20 +1,21 @@
 ## Solutions Architect Group
 
-> The goal of software architecture is the minimization of manpower in all phases of development, deployment, and maintenance.
->
-> -- <cite>@unclebobmartin</cite>
+> The goal of software architecture is the minimization of manpower in all  
+> phases of development, deployment, and maintenance.
+
+― Robert C. Martin
 
 ### Languages
 
-![Languages](https://skillicons.dev/icons?i=js,ts,wasm,java,python,cs,go,php,kotlin,html,css,sass,bash)
+![Languages](https://skillicons.dev/icons?i=ts,js,java,kotlin,python,go,cs,php,bash,html,css,wasm,sass)
 
 ### Backend
 
-![Backend](https://skillicons.dev/icons?i=express,nestjs,flask,spring,dotnet,laravel,nextjs,gatsby)
+![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,express,spring,flask,laravel,dotnet,gatsby,deno)
 
 ### Frontend
- 
-![Frontend](https://skillicons.dev/icons?i=react,redux,vue,angular,bootstrap)
+
+![Frontend](https://skillicons.dev/icons?i=react,vue,angular,tailwind,bootstrap)
 
 ### Infra
 
