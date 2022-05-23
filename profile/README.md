@@ -3,7 +3,7 @@
 > The goal of software architecture is the minimization of manpower in all  
 > phases of development, deployment, and maintenance.
 
-― Robert C. Martin
+― Robert C. Martin (Uncle Bob)
 
 ### Languages
 
